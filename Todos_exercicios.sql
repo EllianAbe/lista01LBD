@@ -1,5 +1,5 @@
 use laboratorio_banco_de_dados;
-
+--Ellian Abe 00098381
 --exercicio 12
 CREATE OR ALTER VIEW produtos_por_venda
 AS
