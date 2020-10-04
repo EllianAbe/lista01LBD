@@ -1,3 +1,4 @@
+-- Ellian Abe 00098381
 --exercicio 19
 CREATE OR ALTER PROC sp_estoque_baixo(
     @quantidade bigint -- recebe a quantidade como parametro

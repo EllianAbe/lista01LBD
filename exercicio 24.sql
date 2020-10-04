@@ -1,3 +1,4 @@
+-- Ellian Abe 00098381
 -- exercicio 24
 CREATE OR ALTER FUNCTION fn_quantidade_vendas_cliente(
     @id_cliente INT

@@ -1,3 +1,4 @@
+-- Ellian Abe 00098381
 --exercicio 20
 CREATE OR ALTER PROC sp_upsert_funcionario(
 -- recebe os parametros para carregar as tabelas de pessoa e funcionario, fazendo update ou insert.

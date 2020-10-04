@@ -1,4 +1,4 @@
-
+-- Ellian Abe 00098381
 --exercicio 13
 CREATE OR ALTER VIEW venda_nf
 AS

@@ -1,3 +1,4 @@
+-- Ellian Abe 00098381
 --exercicio 23
 CREATE OR ALTER FUNCTION fn_classificacao_cliente(
     @id_cliente INT
